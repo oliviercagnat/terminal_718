@@ -1,0 +1,38 @@
+pwd
+-> present working directory (where I am)
+
+ls / ll
+-> shows every file and directory in the folder
+
+cd folder_name
+-> moves into that folder
+
+cd ..
+-> goes back to parent directory
+
+mkdir folder_name
+-> creates a new folder
+
+touch file_name
+-> creates new file
+
+rm file_name
+-> deletes file
+
+rm -r folder_name
+-> deletes folder and all it countains
+
+rm -rf folder_name
+-> same as rm -r but doesn't ask for permition, directly deletes
+
+mv target_file destination
+-> move a file
+
+mv target_file new_file_name
+-> rename a file
+
+code .
+-> opens directory in VS Code
+
+open .
+-> opens directory in finder
